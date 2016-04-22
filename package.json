@@ -1,0 +1,19 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "A Simple NodeJS Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/methewguda/simpleserver.git"
+  },
+  "author": "Methew Guda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/methewguda/simpleserver/issues"
+  },
+  "homepage": "https://github.com/methewguda/simpleserver#readme"
+}
